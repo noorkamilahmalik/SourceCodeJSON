@@ -1,0 +1,44 @@
+[  
+   {  
+     "nama": "pantai parangtritis",  
+     "jenis": "wisata alam",  
+     "harga": "25000",
+     "alamat": "parangtritis"
+   },  
+   {  
+    "nama": "malioboro",  
+    "jenis": "wisata kuliner",  
+    "harga": "10000",
+    "alamat": "kota jogja"
+   },  
+   {  
+    "nama": "candi prambanan",  
+    "jenis": "wisata budaya",  
+    "harga": "50000",
+    "alamat": "sleman" 
+   },  
+   {  
+    "nama": "candi borobudur",  
+    "jenis": "wisata budaya",  
+    "harga": "50000",
+    "alamat": "magelang"
+   },  
+   {  
+    "nama": "gumuk pasir",  
+    "jenis": "wisata alam",  
+    "harga": "10000",
+    "alamat": "parangtritis"
+   },
+   {  
+    "nama": "heha sky view",  
+    "jenis": "wisata kuliner",  
+    "harga": "35000",
+    "alamat": "gunung kidul"
+   },
+   {  
+    "nama": "taman pintar",  
+    "jenis": "wisata edukasi",  
+    "harga": "50000",
+    "alamat": "kota jogja"
+   }
+ ]
